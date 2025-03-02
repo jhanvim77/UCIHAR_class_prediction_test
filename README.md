@@ -5,4 +5,7 @@ I used the raw inertial signals data such as accelerometer and gyrometer data va
 Algorithms:
 
 DEEP LEARNING : CNN, LSTM, CNN-LSTM on features taken from raw inertial signals data.
+
 MACHINE LEARNING: Random forest, SVM and Logistic Regression on both original 561 features from the UCI HAR dataset and on extracted TSFEL features.
+
+![model_acc](https://github.com/user-attachments/assets/a0bbb009-8065-4a60-b718-0968e29f81f7)
